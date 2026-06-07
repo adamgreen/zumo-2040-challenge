@@ -22,9 +22,10 @@ The [Pololu Zumo 2040 Robot](https://www.pololu.com/category/308/zumo-2040-robot
   * No electronic modifications or additions allowed.
 * Challengers are **encouraged** to **modify/improve/replace** the stock **software** as much as possible!!
 
-## Other Goals
+## Goals
 * Increase interest in Mini Sumo.
 * Compete with the same bots in the [Robothon & More](https://robothon.org/summer-2026-robothon-event/) event on **August 22nd, 2026** in the **Capital Hill** region of Seattle, WA.
+* Present a path for at least one of the contestants to get into the design of their own custom Mini Sumo robots that would be competitive in existing Mini Sumo contests such as at the SRS Robothon events.
 * Could allow for remote robot competitions:
   * Contestants would submit their custom **.uf2** firmware images to event organizers.
   * Each firmware image submitted would be turned into 2 contestants:
@@ -39,5 +40,4 @@ The [Pololu Zumo 2040 Robot](https://www.pololu.com/category/308/zumo-2040-robot
   * **Robot-A** and **Robot-B** used for the official competitions could be pre-assembled versions purchased from Pololu to reduce differences in the bots since they would hopefully be built by the same person who has built many of them in the past resulting in a consistent flow for their construction process.
   * In an ideal situation where one submission's firmware is much better than the others, it would be their **FirmwareName-A** and **FirmwareName-B** contestants that ended up competing in the final.
   * To obtain unique 1st, 2nd, and 3rd place finishers, only a submissions's best result would be kept and the rest discarded (ie. both the **FirmwareName-A** and **FirmwareName-B** contestants cannot end up in the top 3).
-* Present a path for at least one of the contestants to get into the design of their own custom Mini Sumo robots that would be competitive in existing Mini Sumo contests such as at the SRS Robothon events.
 * Contest organizers could relax restrictions on electronic changes in the future to allow for additional sensors and/or different mainboards but the mechanical components would still be required to remain stock.
