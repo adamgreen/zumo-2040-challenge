@@ -5,7 +5,7 @@ This challenge is meant as a quick low friction way to enter the world of Mini S
 * No need to design the mechanical or electronic portions of the robot.
 * Concentrate on Mini Sumo strategies, algorithms, and code instead.
 
-## Pololu Zumo 2040 Robot
+## The Challenge Robot
 ![Zumo 2040 Robot](pololu-zumo-2040.png)
 
 The [Pololu Zumo 2040 Robot](https://www.pololu.com/category/308/zumo-2040-robot) will be used for this challenge. Either of the following versions can be used by contestants. The one to use will depend on whether the contestant wants to build the bot themselves or not:
@@ -15,17 +15,18 @@ The [Pololu Zumo 2040 Robot](https://www.pololu.com/category/308/zumo-2040-robot
 * **Preassembled Version**
   * 1 x [Zumo 2040 Robot (Assembled with 75:1 HP Motors)](https://www.pololu.com/product/5012)
 
-## Rules
+## The Challenge Rules
 * Adhere to the **Autonomous 500g Mini Sumo** variant of the [SRS Sumo Rules](https://robothon.org/rules-sumo/).
 * No changes to the stock **Zumo 2040 Robot** are currently permitted.
   * No mechanical modifications or additions allowed.
   * No electronic modifications or additions allowed.
 * Challengers are **encouraged** to **modify/improve/replace** the stock **software** as much as possible!!
 
-## Goals
+## The Challenge Goals
 * Increase interest in Mini Sumo.
-* Compete with the same bots in the [Robothon & More](https://robothon.org/summer-2026-robothon-event/) event on **August 22nd, 2026** in the **Capital Hill** region of Seattle, WA.
+* Increase the number of contestants in the [Robothon & More](https://robothon.org/summer-2026-robothon-event/) event on **August 22nd, 2026** in the **Capital Hill** region of Seattle, WA. For that event the Challenge bots will compete against Mini Sumo bots of all types (ie. they will compete against bots which aren't restricted by the additional rules of this challenge.)
 * Present a path for at least one of the contestants to get into the design of their own custom Mini Sumo robots that would be competitive in existing Mini Sumo contests such as at the SRS Robothon events.
+## Future Challenge Possibilities
 * Could allow for remote robot competitions:
   * Contestants would submit their custom **.uf2** firmware images to event organizers.
   * Each firmware image submitted would be turned into 2 contestants:
