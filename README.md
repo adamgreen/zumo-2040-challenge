@@ -17,15 +17,23 @@ The [Pololu Zumo 2040 Robot](https://www.pololu.com/category/308/zumo-2040-robot
 
 ## The Challenge Rules
 * Adhere to the **Autonomous 500g Mini Sumo** variant of the [SRS Sumo Rules](https://robothon.org/rules-sumo/).
+* If you build the [Zumo 2040 Robot Kit](https://www.pololu.com/product/5010) then you must install the **Clear Wide Angle IR LEDs** in **Step 27** of the [Zumo Assembly Instructions](https://www.pololu.com/docs/0J87/all#3). This matches the LEDs used in the [Zumo 2040 Robot (Assembled with 75:1 HP Motors)](https://www.pololu.com/product/5012).
 * No changes to the stock **Zumo 2040 Robot** are currently permitted.
   * No mechanical modifications or additions allowed.
   * No electronic modifications or additions allowed.
-* Challengers are **encouraged** to **modify/improve/replace** the stock **software** as much as possible!!
+* Challengers are **encouraged** to **modify/improve/replace** the **software** provided by Pololu as much as possible!!
+* **TBD: *Are contestants free to chose between Alkaline and NiMH batteries for their bots during competion runs?***
 
 ## The Challenge Goals
 * Increase interest in Mini Sumo.
-* Increase the number of contestants in the [Robothon & More](https://robothon.org/summer-2026-robothon-event/) event on **August 22nd, 2026** in the **Capital Hill** region of Seattle, WA. For that event the Challenge bots will compete against Mini Sumo bots of all types (ie. they will compete against bots which aren't restricted by the additional rules of this challenge.)
+* Increase the number of contestants in the [Robothon & More](https://robothon.org/summer-2026-robothon-event/) event on **August 22nd, 2026** in the **Capital Hill** region of Seattle, WA. For that event the Challenge bots will compete against Mini Sumo bots which aren't restricted by the additional rules of this challenge.
 * Present a path for at least one of the contestants to get into the design of their own custom Mini Sumo robots that would be competitive in existing Mini Sumo contests such as at the SRS Robothon events.
+## Related Links
+* [Pololu Zumo 2040 User's Guide](https://www.pololu.com/docs/0J87/all)
+* [Pololu Zumo 2040 C/MicroPython Libraries](https://github.com/pololu/zumo-2040-robot)
+* [3π+ 2040 Arduino Library](https://github.com/adamgreen/pololu-3pi-plus-2040-arduino-library) - Mostly compatible with Zumo 2040
+* [SRS Sumo Rules](https://robothon.org/rules-sumo/)
+
 ## Future Challenge Possibilities
 * Could allow for remote robot competitions:
   * Contestants would submit their custom **.uf2** firmware images to event organizers.
