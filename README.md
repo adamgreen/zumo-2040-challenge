@@ -17,12 +17,14 @@ The [Pololu Zumo 2040 Robot](https://www.pololu.com/category/308/zumo-2040-robot
 
 ## The Challenge Rules
 * Adhere to the **Autonomous 500g Mini Sumo** variant of the [SRS Sumo Rules](https://robothon.org/rules-sumo/).
+* Use a [Pololu Zumo 2040 Robot](https://www.pololu.com/category/308/zumo-2040-robot) as outlined in the [the-challenge-robot section](#the-challenge-robot).
 * If you build the [Zumo 2040 Robot Kit](https://www.pololu.com/product/5010) then you must install the **Clear Wide Angle IR LEDs** in **Step 27** of the [Zumo Assembly Instructions](https://www.pololu.com/docs/0J87/all#3). This matches the LEDs used in the [Zumo 2040 Robot (Assembled with 75:1 HP Motors)](https://www.pololu.com/product/5012).
 * No changes to the stock **Zumo 2040 Robot** are currently permitted.
   * No mechanical modifications or additions allowed.
   * No electronic modifications or additions allowed.
 * Challengers are **encouraged** to **modify/improve/replace** the **software** provided by Pololu as much as possible!!
-* **TBD: *Are contestants free to chose between Alkaline and NiMH batteries for their bots during competion runs?***
+* Contestants are free to choose between Alkaline and NiMH batteries for their bots during competition runs.
+* **TBD:** *Is it acceptable to install headers on the mainboard to allow for debugging and future expansion when soldering other headers to the mainboard for a kit built Zumo?*
 
 ## The Challenge Goals
 * Increase interest in Mini Sumo.
@@ -37,16 +39,7 @@ The [Pololu Zumo 2040 Robot](https://www.pololu.com/category/308/zumo-2040-robot
 ## Future Challenge Possibilities
 * Could allow for remote robot competitions:
   * Contestants would submit their custom **.uf2** firmware images to event organizers.
-  * Each firmware image submitted would be turned into 2 contestants:
-    * Contestant **FirmwareName-A**
-    * Contestant **FirmwareName-B**
-  * The contest would then be run with exactly 2 physical robots:
-    * **Robot-A**
-    * **Robot-B**
-  * The **FirmwareName-A** contestant would always run on **Robot-A**.
-  * The **FirmwareName-B** contestant would always run on **Robot-B**.
-  * These 2 contestant versions would be used in an attempt to reduce the influence of one physical robot on the final winner since each submitted firmware gets to compete as both physical robots.
-  * **Robot-A** and **Robot-B** used for the official competitions could be pre-assembled versions purchased from Pololu to reduce differences in the bots since they would hopefully be built by the same person who has built many of them in the past resulting in a consistent flow for their construction process.
-  * In an ideal situation where one submission's firmware is much better than the others, it would be their **FirmwareName-A** and **FirmwareName-B** contestants that ended up competing in the final.
-  * To obtain unique 1st, 2nd, and 3rd place finishers, only a submissions's best result would be kept and the rest discarded (ie. both the **FirmwareName-A** and **FirmwareName-B** contestants cannot end up in the top 3).
+  * Each firmware image submitted would be turned into 2 contestants, one to run on each of 2 physical robots.
+  * These 2 contestant versions would be used in an attempt to reduce the influence of one physical robot on the final winner since each submitted firmware gets to compete on both physical robots.
+  * To obtain unique 1st, 2nd, and 3rd place finishers, only a submissions's best result would be kept and the other discarded.
 * Contest organizers could relax restrictions on electronic changes in the future to allow for additional sensors and/or different mainboards but the mechanical components would still be required to remain stock.
