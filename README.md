@@ -22,9 +22,9 @@ The [Pololu Zumo 2040 Robot](https://www.pololu.com/category/308/zumo-2040-robot
 * No changes to the stock **Zumo 2040 Robot** are currently permitted.
   * No mechanical modifications or additions allowed.
   * No electronic modifications or additions allowed.
+* It is however acceptable to install headers on the mainboard to allow for debugging and future expansion when soldering other headers to the mainboard for a kit built Zumo.
 * Challengers are **encouraged** to **modify/improve/replace** the **software** provided by Pololu as much as possible!!
 * Contestants are free to choose between Alkaline and NiMH batteries for their bots during competition runs.
-* **TBD:** *Is it acceptable to install headers on the mainboard to allow for debugging and future expansion when soldering other headers to the mainboard for a kit built Zumo?*
 
 ## The Challenge Goals
 * Increase interest in Mini Sumo.
