@@ -33,7 +33,7 @@ The [Pololu Zumo 2040 Robot](https://www.pololu.com/category/308/zumo-2040-robot
 ## Related Links
 * [Pololu Zumo 2040 User's Guide](https://www.pololu.com/docs/0J87/all)
 * [Pololu Zumo 2040 C/MicroPython Libraries](https://github.com/pololu/zumo-2040-robot)
-* [3π+ 2040 Arduino Library](https://github.com/adamgreen/pololu-3pi-plus-2040-arduino-library) - Mostly compatible with Zumo 2040
+* [Zumo 2040 Arduino Library](https://github.com/adamgreen/zumo-2040-arduino-library)
 * [SRS Sumo Rules](https://robothon.org/rules-sumo/)
 
 ## Future Challenge Possibilities
