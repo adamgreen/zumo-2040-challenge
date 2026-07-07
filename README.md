@@ -11,7 +11,9 @@ This challenge is meant as a quick low friction way to enter the world of Mini S
 The [Pololu Zumo 2040 Robot](https://www.pololu.com/category/308/zumo-2040-robot) will be used for this challenge. Either of the following versions can be used by contestants. The one to use will depend on whether the contestant wants to build the bot themselves or not:
 * **Kit Version**
   * 1 x [Zumo 2040 Robot Kit (No Motors)](https://www.pololu.com/product/5010)
+    * Available from [RobotShop in Canada](https://ca.robotshop.com/products/pololu-zumo-2040-robot-kit-no-motors)
   * 2 x [75:1 Micro Metal Gearmotor HP 6V with Extended Motor Shaft](https://www.pololu.com/product/2215)
+    * **75:1 Micro Metal Gearmotor HPCB 6V with Extended Motor Shaft** alternate available from [RobotShop in Canada](https://ca.robotshop.com/products/6v-pololu-751-micro-metal-gearmotor-extended-motor-shaft)
 * **Preassembled Version**
   * 1 x [Zumo 2040 Robot (Assembled with 75:1 HP Motors)](https://www.pololu.com/product/5012)
 
